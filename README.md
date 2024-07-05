@@ -27,7 +27,7 @@
 <h3>Also</h3>
 
 - 🔭 I’m currently working on C#, T-SQL, AngularJS, EF Core, Dapper, Linux & Docker
-- 🌱 I’m currently learning Python, DDD, Microservices, Angular
+- 🌱 Learning Python, DDD, Microservices, Angular and working with RaspberryPi as a hobby
 - 🧐 Interested in web development, Python & data engineering
-- 📫 How to reach me: www.danialkarimi.com  /  danialkarimi74@gmail.com  /  (+98) 910 559 557 6
+- 📫 Contact me: www.danialkarimi.com  /  danialkarimi74@gmail.com  /  (+98) 910 559 557 6
 
