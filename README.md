@@ -8,7 +8,7 @@
 ---
 # 💫 About Me:
 
-  <p> I am an efficient and passionate full-stack developer with 8 years of experience. During this period, I have become flexible and sociable due to my presence in the     workplace, cooperating with different programmers, being a supervisor, communicating with customers and managers, and participating in software introduction sessions.</p>
+  <p> I am an efficient and passionate full-stack developer with 9 years of experience. During this period, I have become flexible and sociable due to my presence in the     workplace, cooperating with different programmers, being a supervisor, communicating with customers and managers, and participating in software introduction sessions.</p>
 
   <p> My enthusiasm to discover and improve my knowledge in this professional field has led me to learn what was necessary and required for the organization, for instance,     Docker, Linux, AngularJS, Neo4j, Postgres, Query Performance Tuning, etc. Additionally, I used to teach them to my colleagues.</p>
 
